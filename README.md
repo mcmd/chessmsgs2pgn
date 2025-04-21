@@ -1,6 +1,6 @@
 # chessmsgs2pgn
 
-A command-line tool to convert [ChessMsgs.com](https://chessmsgs.com) game logs into standard PGN (Portable Game Notation) format. This tool is designed to work with games played on [ChessMsgs.com](https://github.com/gregsramblings/chessmsgs), a service that allows playing chess over various messaging platforms.
+A command-line tool to convert [ChessMsgs.com](https://chessmsgs.com) game logs into standard PGN (Portable Game Notation) format. This tool is designed to work with games played on [ChessMsgs.com](https://chessmsgs.com) (see their source code in [their repository](https://github.com/gregsramblings/chessmsgs)), a service that allows playing chess over various messaging platforms.
 
 ## Features
 
@@ -145,4 +145,4 @@ The test suite:
 
 ## License
 
-ISC 
+MIT 
