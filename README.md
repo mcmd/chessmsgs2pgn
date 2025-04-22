@@ -14,11 +14,6 @@ A command-line tool to convert [ChessMsgs.com](https://chessmsgs.com) game logs 
 
 ## Installation
 
-### Global Installation (Recommended)
-```bash
-npm install -g chessmsgs2pgn
-```
-
 ### Local Installation
 1. Clone this repository
 2. Install dependencies:
